@@ -4,10 +4,32 @@ This repository contains my solutions to projects from the [roadmap.sh](https://
 
 ## Frontend
 
-| Project | Preview |
-|---------|---------|
-| **Single-Page CV** | <a href="./frontend/single-page-cv"><img src="./frontend/single-page-cv/preview.png" alt="Single-Page CV Preview" width="500"></a> |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="./frontend/single-page-cv">
+        <img src="./frontend/single-page-cv/preview.png" alt="Single-Page CV" width="100%">
+        <br><br>
+        <strong>Single-Page CV</strong>
+      </a>
+    </td>
+
+    <td align="center" width="50%">
+      <!-- Future Project -->
+    </td>
+  </tr>
+</table>
 
 ## Backend
 
-*Projects coming soon.*
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <!-- Future Project -->
+    </td>
+
+    <td align="center" width="50%">
+      <!-- Future Project -->
+    </td>
+  </tr>
+</table>
