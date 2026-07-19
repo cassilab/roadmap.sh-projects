@@ -2,7 +2,11 @@
 
 This repository contains my solutions to projects from the [roadmap.sh](https://roadmap.sh) learning paths.
 
-Click any of the images below to view the README and source code for the project.
+## Projects List
+
+- [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+
+Click the image below to view the project README and source code.
 
 <p align="center">
   <a href="./Frontend%20Projects/01-single-page-csv/">
