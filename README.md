@@ -7,8 +7,8 @@ Click any of the images below to view the README and source code for the project
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <a href="./frontend/single-page-cv">
-        <img src="./frontend/single-page-cv/preview.png" alt="Single-Page CV" />
+      <a href="./Frontend Projects/single-page-cv">
+        <img src="./Frontend Projects/single-page-cv/preview.png" alt="Single-Page CV" />
         <br><br>
         <strong>Single-Page CV</strong>
       </a>
