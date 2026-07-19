@@ -6,7 +6,7 @@ This repository contains my solutions to projects from the [roadmap.sh](https://
 
 - [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
 
-Click the image below to view the project README and source code.
+Click any image below to view the project README and source code.
 
 <p align="center">
   <a href="./Frontend%20Projects/01-single-page-csv/">
